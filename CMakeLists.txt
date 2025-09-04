@@ -4,4 +4,4 @@ project(dsa)
 set(CMAKE_C_STANDARD 17)
 
 add_executable(dsa
-        basics/lesson3.cpp)
+        basics/lesson6.cpp)
