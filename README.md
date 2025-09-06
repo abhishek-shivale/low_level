@@ -1,7 +1,7 @@
 # Learning Low Level __C++__
  
 - [x] Learn Basics
-- [ ] Build Basic Project
+- [x] Build Basic Project
 - [ ] Learn DSA
 - [ ] Build Intermediate Projects
 
