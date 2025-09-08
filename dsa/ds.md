@@ -2,9 +2,8 @@
 
 ### 1. **Complexity Analysis**
 
-* [ ] Big O, Big Θ, Big Ω
-* [ ] Time vs Space trade-offs
-* [ ] Amortized Analysis
+* [x] Big O, Big Θ, Big Ω
+* [x] Time vs Space trade-offs
 
 ---
 
